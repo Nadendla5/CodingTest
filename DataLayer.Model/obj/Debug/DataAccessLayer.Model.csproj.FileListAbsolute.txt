@@ -1,6 +1,0 @@
-C:\Users\moula\Desktop\Test\JonasCodingTest\DataLayer.Model\bin\Debug\DataAccessLayer.Model.dll
-C:\Users\moula\Desktop\Test\JonasCodingTest\DataLayer.Model\bin\Debug\DataAccessLayer.Model.pdb
-C:\Users\moula\Desktop\Test\JonasCodingTest\DataLayer.Model\obj\Debug\DataAccessLayer.Model.csproj.AssemblyReference.cache
-C:\Users\moula\Desktop\Test\JonasCodingTest\DataLayer.Model\obj\Debug\DataAccessLayer.Model.csproj.CoreCompileInputs.cache
-C:\Users\moula\Desktop\Test\JonasCodingTest\DataLayer.Model\obj\Debug\DataAccessLayer.Model.dll
-C:\Users\moula\Desktop\Test\JonasCodingTest\DataLayer.Model\obj\Debug\DataAccessLayer.Model.pdb
