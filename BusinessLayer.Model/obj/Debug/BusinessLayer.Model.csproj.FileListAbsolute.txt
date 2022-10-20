@@ -1,0 +1,9 @@
+C:\Users\moula\Desktop\Test\JonasCodingTest\BusinessLayer.Model\bin\Debug\BusinessLayer.Model.dll
+C:\Users\moula\Desktop\Test\JonasCodingTest\BusinessLayer.Model\bin\Debug\BusinessLayer.Model.pdb
+C:\Users\moula\Desktop\Test\JonasCodingTest\BusinessLayer.Model\obj\Debug\BusinessLayer.Model.csproj.AssemblyReference.cache
+C:\Users\moula\Desktop\Test\JonasCodingTest\BusinessLayer.Model\obj\Debug\BusinessLayer.Model.csproj.CoreCompileInputs.cache
+C:\Users\moula\Desktop\Test\JonasCodingTest\BusinessLayer.Model\obj\Debug\BusinessLayer.Model.dll
+C:\Users\moula\Desktop\Test\JonasCodingTest\BusinessLayer.Model\obj\Debug\BusinessLayer.Model.pdb
+C:\Users\moula\Desktop\Test\JonasCodingTest\BusinessLayer.Model\bin\Debug\DataAccessLayer.Model.dll
+C:\Users\moula\Desktop\Test\JonasCodingTest\BusinessLayer.Model\bin\Debug\DataAccessLayer.Model.pdb
+C:\Users\moula\Desktop\Test\JonasCodingTest\BusinessLayer.Model\obj\Debug\BusinessLayer.Model.csproj.CopyComplete

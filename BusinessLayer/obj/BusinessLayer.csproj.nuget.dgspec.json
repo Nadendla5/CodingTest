@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\moula\\Desktop\\Test\\JonasCodingTest\\BusinessLayer\\BusinessLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\moula\\Desktop\\Test\\JonasCodingTest\\BusinessLayer.Model\\BusinessLayer.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\moula\\Desktop\\Test\\JonasCodingTest\\BusinessLayer.Model\\BusinessLayer.Model.csproj",
+        "projectName": "BusinessLayer.Model",
+        "projectPath": "C:\\Users\\moula\\Desktop\\Test\\JonasCodingTest\\BusinessLayer.Model\\BusinessLayer.Model.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\moula\\Desktop\\Test\\JonasCodingTest\\DataLayer.Model\\DataAccessLayer.Model.csproj": {
+                "projectPath": "C:\\Users\\moula\\Desktop\\Test\\JonasCodingTest\\DataLayer.Model\\DataAccessLayer.Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\moula\\Desktop\\Test\\JonasCodingTest\\BusinessLayer\\BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\moula\\Desktop\\Test\\JonasCodingTest\\BusinessLayer\\BusinessLayer.csproj",
+        "projectName": "BusinessLayer",
+        "projectPath": "C:\\Users\\moula\\Desktop\\Test\\JonasCodingTest\\BusinessLayer\\BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\moula\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\moula\\Desktop\\Test\\JonasCodingTest\\BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\moula\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\moula\\Desktop\\Test\\JonasCodingTest\\BusinessLayer.Model\\BusinessLayer.Model.csproj": {
+                "projectPath": "C:\\Users\\moula\\Desktop\\Test\\JonasCodingTest\\BusinessLayer.Model\\BusinessLayer.Model.csproj"
+              },
+              "C:\\Users\\moula\\Desktop\\Test\\JonasCodingTest\\DataLayer.Model\\DataAccessLayer.Model.csproj": {
+                "projectPath": "C:\\Users\\moula\\Desktop\\Test\\JonasCodingTest\\DataLayer.Model\\DataAccessLayer.Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\moula\\Desktop\\Test\\JonasCodingTest\\DataLayer.Model\\DataAccessLayer.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\moula\\Desktop\\Test\\JonasCodingTest\\DataLayer.Model\\DataAccessLayer.Model.csproj",
+        "projectName": "DataAccessLayer.Model",
+        "projectPath": "C:\\Users\\moula\\Desktop\\Test\\JonasCodingTest\\DataLayer.Model\\DataAccessLayer.Model.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
